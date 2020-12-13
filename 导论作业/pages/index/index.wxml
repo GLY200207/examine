@@ -1,0 +1,7 @@
+<view>目的：考察最近阅读习惯</view>
+
+
+<button class="min" bindtap="max">查看设备传回数据</button>
+<view>好书推荐：亲！</view>
+<image class="image" src="../image1/one.jpg" mode="image" style="width: 200px; height: 200px; background-color: #eeeeee;"></image>
+<image class="image" src="../image1/two.jpg" mode="image" style="width: 200px; height: 200px; background-color: #eeeeee;"></image>
