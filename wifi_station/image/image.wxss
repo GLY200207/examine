@@ -1,0 +1,11 @@
+
+.set
+{
+width:100%;
+color:green;
+left: 0rpx;
+position:fixed;
+bottom:100;
+
+
+}

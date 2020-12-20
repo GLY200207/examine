@@ -1,0 +1,4 @@
+<canvas class = "canvas" id="chart1"
+canvas-id="time"></canvas>
+
+  <button  class="set" bindtap="next"   >用户评价</button>

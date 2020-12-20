@@ -1,0 +1,6 @@
+<!--pages/wifi_station/invegest/invegest.wxml-->
+<view>用户习惯评价：</view>
+<view>读取阅读次数:{{gain}}</view>
+<view >
+<button  bindtap="gain">gain</button>
+</view>
